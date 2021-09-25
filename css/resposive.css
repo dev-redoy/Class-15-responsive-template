@@ -181,6 +181,24 @@
         display: inline-block;
         padding: 5px;
     }
+    .menu ul li a {
+        padding: 1px 5px;
+        font-size: 10px;
+    }
+    .slider-section {
+        padding: 50px 0;
+    }
+    .service-title p {
+        font-size: 12px;
+    }
+    .service-title h4 {
+        font-size: 25px;
+        padding-bottom: 13px;
+    }
+    .service-section {
+        padding: 15px 0;
+    }
+    
 
 }
 @media all and (max-width:330px){
@@ -198,5 +216,70 @@
     }
     .logo a {
         padding: 0px;
+    }
+    .service-item p {
+        font-size: 12px;
+    }
+    .service-item h4 {
+        font-size: 15px;
+        margin-bottom: 6px;
+    }
+    .service-item .s-icon {
+        margin: 7px 0;
+    }
+    .service-item {
+        padding: 5px 5px;
+    }
+    .about-section {
+        margin-bottom: 40px;
+        padding: 0 10px;
+    }
+    .about-title {
+        margin: 15px 0;
+        padding: 0 10px;
+    }
+    .about-title h4 {
+        color: #555555;
+        font-size: 30px;
+        padding-bottom: 6px;
+    }
+    .about-title p {
+        color: #808080;
+        font-size: 12px;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .about-content h4 {
+        font-size: 18px;
+        padding-bottom: 5px;
+        padding-top: 10px;
+    }
+    .about-content p {
+        font-size: 12px;
+    }
+    .contact-section {
+        padding: 16px 0 0 0;
+    }
+    .contact-title {
+        margin-bottom: 24px;
+    }
+    .contact-title h4 {
+        font-size: 24px;
+        padding-bottom: 8px;
+    }
+    .contact-title p {
+        font-size: 13px;
+    }
+    .contact-details {
+        margin-bottom: 15px;
+    }
+    .c-icon {
+        margin-bottom: 10px;
+    }
+    .contact-details span {
+        font-size: 20px;
+    }
+    .contact-details p {
+        padding-bottom: 0px;
+        font-size: 14px;
     }
 }
